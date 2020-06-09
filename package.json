@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "Nodejs crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Dari Alves",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
